@@ -9,6 +9,11 @@ body {
   margin-top: 60px;
 }
 
+.sign-up-button {
+  color:#000;
+}
+
+
 /** HEADER **/
 #header-nav {
   background-color: #f6b319;
